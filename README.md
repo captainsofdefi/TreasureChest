@@ -50,6 +50,6 @@ Conclusion
 
 TreasureChest is a decentralized digital asset management platform that provides a secure and transparent way to manage digital assets. The platform uses a combination of blockchain technology and smart contracts to provide a robust and secure framework for managing tokens. TreasureChest also includes advanced features such as bundling, weighted tokens, and a layer of privacy to provide users with a flexible and customizable experience.
 
-TreasureChest Website:  separate-bath.surge.sh
-TreasureChest Community: @captainstreasurechest
+TreasureChest Website:  "https://separate-bath.surge.sh"
+TreasureChest Telegram Community: @captainstreasurechest
 Note: This is a simplified white paper, and it's intended to provide a general overview of the TreasureChest project. A more detailed and technical white paper will be released in the future.# TreasureChest
