@@ -1,3 +1,5 @@
+Beta presale-Token is deployed and contract verified at 0x2b771eD43A663E04C208b9233dB2e7fD2367a093 on Arbitrum
+
 Whitepaper: TreasureChest Protocol
 Abstract
 The TreasureChest Protocol represents a groundbreaking advancement in blockchain technology, bridging Bitcoin with the Ethereum Virtual Machine (EVM) and introducing a layer of privacy and control previously unseen in decentralized finance. This whitepaper outlines the technical foundation, use cases, and future vision for the TreasureChest Protocol, inviting early investors and developers to join in its development and deployment.
