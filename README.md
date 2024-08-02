@@ -1,5 +1,4 @@
-deployed at 0xBE2063eb020f8ACd5a317d2Bea05922A55F579b8 on Arbitrum
-interface at https://plant-lift.surge.sh/ 
+deployed at 0xB4737103012976570FC45bb2Da0c4ae28bB9FDE6 on Arbitrum
 
 
 Revolutionizing Asset Management in DeFi: The TreasureChest Smart Contract
