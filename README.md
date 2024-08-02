@@ -1,5 +1,6 @@
 deployed at 0xB4737103012976570FC45bb2Da0c4ae28bB9FDE6 on Arbitrum
-a tokenSale contract that is the same is deployed and verified at 0xfc9E42Ba348694B59E42F4c6DaAfB0B36Fc080De
+a tokenSale contract that is the same is deployed and verified at 0xfc9E42Ba348694B59E42F4c6DaAfB0B36Fc080De.
+The actual Tokensale is deployed at 0x39fE2C15F0cC5959aDAd37d384CA882BB9307257
 
 
 Revolutionizing Asset Management in DeFi: The TreasureChest Smart Contract
