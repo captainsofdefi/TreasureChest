@@ -53,4 +53,4 @@ Invest early, participate actively, and be part of a groundbreaking project that
 
 For more information and to stay updated on our progress, please follow our channels and join the conversation. We look forward to having you on this exciting journey with TreasureChest!
 
-TOKEN IS NOT VERIFIED YET. it is at address 0x43A7ED1A92f1d7245629DF3e58Ec160F2BFFa17A. Early Community members will get the details ahead of the genneral public. This is still in prelaunch phaze so no social media or community members or announcements ye. There is links to telegram and twitter on the trial app url..
+TOKEN IS NOT VERIFIED YET. it is at address 0xFF1E97E6048e91021112ADb170d72FddFd013d18. Early Community members will get the details ahead of the genneral public. This is still in prelaunch phaze so no social media or community members or announcements ye. There is links to telegram and twitter on the trial app url..
